@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.btn{
+    padding: 10px 20px;
+    background-color: crimson;
+    border-radius: 5px;
+    color: white;
+    font-weight: 900;
+}
+.categories img{
+    width: 100px;
+}
